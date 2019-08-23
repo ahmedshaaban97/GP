@@ -1,23 +1,15 @@
 -What
-	UNDERSTAND signal !!!!!! noise or motion, intended or accident 
-	focus on only certain movements performed?--->dream make all movements
-	recognize the intention to perform different gestures, such as pointing and different types of power and precision grips.
-	force, speed (proportional)
+	- understand signal: noise or motion, intended or accident, (stop motion, start motion, change motion..)
+	- focus on only certain movements performed
+	- recognize the intention to perform different gestures, force, speed (proportional)
 	--> user intention, how user communicates with device
-	time to detect small? so machines respond----REALTIME
-	movement is instictive without effort
-	stop motion, start motion, change motion in the middle, maintain motion
-    	no accidental movements -- intention true or false
+	- time to detect small---REALTIME
+	- movement is instictive/natural without effort
 	feedback? closed-loop, human-in-loop---> user is able to monitor whether the movement intention was decoded properly
 
-not intuitive: the user has to provide distinct patterns of activity to trigger different functions supported by the device. Therefore, 
-	to accommodate more functions, the user needs to produce more commands in a consistent manner. At the same time, 
-	the decoding performance decreases as the number of classes to be discriminated increases. 
-	long learning-curve--->high cognitive effort
-	The device waits for the user to generate a conscious? trained? specific command--bad?
 
 -Why
-	--> intutive human- machine interface,,,working with a human-->intuitive control
+	--> intutive human - machine interface,,,working with a human-->intuitive control
 	--> subject independent intention decoding-----personalized?
 
     	reduce cognitive and physical effort of training 
@@ -26,4 +18,3 @@ not intuitive: the user has to provide distinct patterns of activity to trigger 
 	user-friendly/natural control---focus on end-user (humans)
 
 
-Available: non-intuitive codification of gestures in muscle contractions.
