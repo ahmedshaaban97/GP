@@ -6,7 +6,7 @@ During ordinary wear over time, the electrodes connected to the skin can begin t
 the area that remains attached, which can give the user painful shocks. Alternately, sweat can impede the connection between the electrode 
 and the skin, so that the user feels less or even no feedback at all.so prothetics designer need to turn to smart control strategy to keep
 the robotic limb seem more real and natural.
-     -what?
+     -WHAT?
                Restoring meaningful sensory feedback is a challenging endeavor, which involves interfacing an artificial 
 electronic system with the nervous system in order to convey information; make a limb with motor control, touch feedback,
 and movement feedback. That should create the full sensation of ownership and control.
