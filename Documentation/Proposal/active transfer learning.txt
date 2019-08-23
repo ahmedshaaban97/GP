@@ -1,12 +1,14 @@
-transfer learning:
+transfer learning:-
+
+what?
+
 a machine learning model that solves a certain problem
 can be used to solve another problem in another field 
 
-goal:-
+why?
 increase the accuracy of our models
 
 examples:-
-
 1- data for spam classification in
 one language can help spam classification in another language. 
 
@@ -16,12 +18,13 @@ to another disease.
 ----------------------------------------------------------------------------------------------
 
 active learning:-
+
+what?
 is when we have limited labeled training data
 
-goal:-
-to save time labeling the data
+why?
+to save time labeling the data by
 
-it consists of:-
 1-the small amount of labeled data is feed to the model to train on 
 2-the model make predictions on the unlabeld data 
 3-the data with low prediction percentage will be confirmed by a human,
