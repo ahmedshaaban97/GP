@@ -6,7 +6,8 @@ a machine learning model that solves a certain problem
 can be used to solve another problem in another field 
 
 why?
-increase the accuracy of our models
+- There is a potential to make use of data labelled for another amputee to bootstrap a model for another amputee  likely will 
+increase the accuracy of our models ---> better intention 
 
 examples:-
 1- data for spam classification in
@@ -26,7 +27,7 @@ why?
 to save time labeling the data by
 
 1-the small amount of labeled data is feed to the model to train on 
-2-the model make predictions on the unlabeld data 
+2-the model make predictions on the unlabeld data --> there is price associated with planning --> Jack will need to come so many times to the clinic ---> stand infront of screeen instructing him to make movements ---> Active learning algorithmically put a cost on labelling ---> It can be  necessary because it is expected to observe different EMG/ ....  due to muscle Atrophy 
 3-the data with low prediction percentage will be confirmed by a human,
 and enter the database as labeled data and it will be like feed back to the system
 4-the data with high accuracy will be feed to the database and be part of the next training session
