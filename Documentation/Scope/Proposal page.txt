@@ -1,0 +1,6 @@
+ 
+We using machine learning to:
+1-Cause intention decoding software to be subject indpendent and reducing the depedency of the model on the data.
+2-Apply a real-time response for our prosthetic limb so the amputee feel free to use it.
+3-Get an accurate feedback so the prosthetic limb seems more natural and real for amputee.
+    
