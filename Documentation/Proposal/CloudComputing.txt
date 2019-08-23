@@ -1,0 +1,14 @@
+Cloud Computing:
+    WHAT?
+It is accessing, delivering, transfering and even processing Data through delivering hosting servers over the internet.
+
+    WHY?
+
+- For Engineers and developers:
+ Mobility of Data - Flexibility of storage - protect data from loss - Scalability.
+-For the User (Amputee): 
+Low power consuption (On Demand) where the user can use a part of the data at given time
+-processing on the cloud not on device electronics - Flexible -Maintainaned by the vendor so no need to worry about
+ maintainance.
+-For Physician:
+ Visualise and access dataa remotely - Some clouds support ML so detecting special patterns in data is duable.
