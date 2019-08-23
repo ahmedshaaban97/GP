@@ -1,12 +1,15 @@
 Smart Control Strategy:
-    -WHY?
-               The idea is that we no longer want the prosthetic hand to feel like a tool, we want it to feel like an extension of the body.
-35% of the amputees don't use their prosthetic hand regularly and about 10% reject their robotic prosthesis due to poor functionality or psychological issues.
-During ordinary wear over time, the electrodes connected to the skin can begin to peel off, causing a buildup of electrical current on 
-the area that remains attached, which can give the user painful shocks. Alternately, sweat can impede the connection between the electrode 
-and the skin, so that the user feels less or even no feedback at all.so prothetics designer need to turn to smart control strategy to keep
-the robotic limb seem more real and natural.
-     -WHAT?
+     WHY????
+               The idea is that we no longer want the prosthetic hand to feel like a tool, we want it to feel like 
+an extension of the body.
+35% of the amputees don't use their prosthetic hand regularly due to poor functionality or psychological issues.
+During ordinary wear over time, the electrodes connected to the skin can begin to peel off, causing a buildup of 
+electrical current on the area that remains attached, which can give the user painful shocks. Alternately, sweat can
+impede the connection between the electrode and the skin, so that the user feels less or even no feedback at all.so 
+prothetics designer need to turn to smart control strategy to keep the robotic limb seem more real and natural.
+ 
+
+     what????
                Restoring meaningful sensory feedback is a challenging endeavor, which involves interfacing an artificial 
 electronic system with the nervous system in order to convey information; make a limb with motor control, touch feedback,
 and movement feedback. That should create the full sensation of ownership and control.
