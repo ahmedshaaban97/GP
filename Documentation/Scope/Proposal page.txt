@@ -10,3 +10,7 @@ We are using machine learning for the following reasons:
 2-Applying a real-time response for our prosthetic limb so the amputee feels free to use it.
 3-Get an accurate feedback so the prosthetic limb seems more natural and real for the amputee.
     
+We aim at utilizing principles of Cloud Computing in our project to serve several stakeholders. Cloud Computing will save much power which
+will give the amputee more usage hours if the limb. In addition to this, it will give the data mobility to ease its streaming and
+analysis, as well as being scalable to our amount of data. Thus, Cloud principle could be a useful approach for data streaming in our
+project.
