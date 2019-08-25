@@ -1,5 +1,5 @@
 Overview:
-The lose of an arm is debilitating and the need for cost-effective prosthetics is higher than ever especially in Egypt. 
+The loss of an arm is debilitating and the need for cost-effective prosthetics is higher than ever especially in Egypt. 
 The high cost of a non-cosmetic prosthetic and the effort for the amputee training causes most amputees to either give up or refuse to 
 wear one. Our idea is to build an intention decoding software that depends on mobile sensors to gather different data to reduce the cost, 
 making it viable for use in Egypt. To also use cloud to deal with thee stream of data from those sensors and machine learning algorithms
