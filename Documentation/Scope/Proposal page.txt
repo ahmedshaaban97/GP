@@ -2,15 +2,15 @@ Overview:
 The loss of an arm is debilitating and the need for cost-effective prosthetics is higher than ever, especially in Egypt. 
 The high cost of a non-cosmetic prosthetic and the effort for the amputee training causes most amputees to either give up or refuse to 
 wear one. Our idea is to build an intention decoding software that depends on mobile sensors to gather different data to reduce the cost, 
-making it viable for use in Egypt. The software will use Cloud to deal with thee stream of data from those sensors and machine learning algorithms
+making it viable for use in Egypt. The software will use Cloud to deal with the stream of data from those sensors and machine learning algorithms
 that promote natural and instinctive motion with minimal training; thereby, reducing the cognitive effort of the amputee. 
 
 We are using machine learning for the following reasons:
-1-Causing the intention decoding software to be subject indpendent and reducing the depedency of the model on the data.
-2-Applying a real-time response for our prosthetic limb so the amputee feels free to use it.
+1-The software will be subject indpendent and its depedency on the data will be reduced.
+2-The software will provide a real-time response making the prosthetic motion feel natural and instinctive.
 3-Get an accurate feedback so the prosthetic limb seems more natural and real for the amputee.
     
 We aim at utilizing principles of Cloud Computing in our project to serve several stakeholders. Cloud Computing will save much power which
-will give the amputee more usage hours if the limb. In addition to this, it will give the data mobility to ease its streaming and
-analysis, as well as being scalable to our amount of data. Thus, Cloud principle could be a useful approach for data streaming in our
+will give the amputee more usage hours of the limb. In addition to this, it will give the data mobility to ease its streaming and
+analysis, as well as being scalable to our amount of data. Thus, Cloud Computing principle could be a useful approach for data streaming in our
 project.
