@@ -6,7 +6,7 @@ making it viable for use in Egypt. The software will use Cloud to deal with the 
 that promote natural and instinctive motion with minimal training; thereby, reducing the cognitive effort of the amputee. 
 
 We are using machine learning for the following reasons:
-1-The software will be subject indpendent and its depedency on the data will be reduced.
+1-The software will be subject independent and its dependency on the data will be reduced.
 2-The software will provide a real-time response making the prosthetic motion feel natural and instinctive.
 3-Get an accurate feedback so the prosthetic limb seems more natural and real for the amputee.
     
