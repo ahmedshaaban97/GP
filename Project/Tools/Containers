@@ -1,0 +1,36 @@
+What are containers?
+	-> Containers are a solution to the problem of how to get software to run reliably when moved 		  
+	   from one computing environment to another.
+	
+	-> a container consists of runtime environment: an application,its dependencies, libraries, 		   
+	   other binaries, and configuration files needed to run it, bundled into one package
+
+What benefits do containers offer?
+	-> A container may be only tens of megabytes in size, whereas a virtual machine with its own 		  
+	   entire operating system may be several gigabytes in size
+
+	-> virtual machines may take several minutes to boot up their operating systems and begin 		  
+	   running the applications they host, while containerized applications can be started almost 		  
+	   instantly
+
+	-> containerization allows for greater modularity. Rather than run an entire complex application 
+	   inside a single container, the application can be split in to modules (such as the database, the application front end, and so on)
+	   This is the so-called microservices approach
+
+	-> Applications built in this way are easier to manage because each module is relatively simple,
+	   and changes can be made to modules without having to rebuild the entire application
+
+What is Docker?
+	-> Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.
+
+	-> Docker is designed to benefit both developers and system administrators, making it a part of many DevOps (developers + operations) toolchains.
+		 |
+	 	 |
+	 	 -> For Developers:
+			-> it means that they can focus on writing code without worrying about the system that it will ultimately be running on.
+	
+			-> It also allows them to get a head start by using one of thousands of programs already designed to run in a Docker container 
+			   as a part of their application
+
+		 -> For operations staff:
+			-> Docker gives flexibility and potentially reduces the number of systems needed because of its small footprint and lower overhead.
