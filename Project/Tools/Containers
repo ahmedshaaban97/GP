@@ -25,7 +25,6 @@ What is Docker?
 
 	-> Docker is designed to benefit both developers and system administrators, making it a part of many DevOps (developers + operations) toolchains.
 		 |
-	 	 |
 	 	 -> For Developers:
 			-> it means that they can focus on writing code without worrying about the system that it will ultimately be running on.
 	
