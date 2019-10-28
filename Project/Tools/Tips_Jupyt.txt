@@ -1,0 +1,12 @@
+Jupyter Notebook (Tips And Tricks)
+Esc >> command mode -navigate around your notebook with arrow keys.
+Enter >> edit mode for the given cell.
+Shift +(Up / Down) >> select cells in desired direction.
+%matplotlib- inline >> Activates plotting in the notebook.
+Seaborn  library >> improves visualization of the graphs.
+%run >> run a pyton code from a file with .py extension
+%load >> load code script from file with .py extension.
+%who >> List all global variables.
+%%timeit >> run code in cell many times recording the mean of the fstest 3.
+%%writefile >>  Saves the contents of that cell to an external file.
+%%cython >>  Run cython function inside a cell.
